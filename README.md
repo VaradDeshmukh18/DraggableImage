@@ -11,6 +11,9 @@ But for the sake of simplicity, we have kept as it is.
 
 
 
+
+
+
 ![Screenshot_2023-10-26-01-03-23-563_com vaddy draggable_image](https://github.com/VaradDeshmukh18/DraggableImage/assets/99480015/065cf2ae-fce1-42b9-8966-355f615084e8)
 
 
