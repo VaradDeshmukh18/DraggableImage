@@ -8,6 +8,7 @@ We can add more cards or functionalities to it.
 
 We can limit the dragging further by adding constraints in X and Y co-ordinates.
 But for the sake of simplicity, we have kept as it is.
+We can add more cards for a deloivary app.
 
 
 ## Output
